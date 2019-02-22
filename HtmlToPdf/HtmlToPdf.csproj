@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="PDF.Core" Version="5.0.5.2" />
+  </ItemGroup>
+
 </Project>
