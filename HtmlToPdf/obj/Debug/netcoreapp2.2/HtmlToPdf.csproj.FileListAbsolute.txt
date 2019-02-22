@@ -1,0 +1,8 @@
+C:\projects\HtmlToPdf\HtmlToPdf\bin\Debug\netcoreapp2.2\HtmlToPdf.deps.json
+C:\projects\HtmlToPdf\HtmlToPdf\bin\Debug\netcoreapp2.2\HtmlToPdf.runtimeconfig.json
+C:\projects\HtmlToPdf\HtmlToPdf\bin\Debug\netcoreapp2.2\HtmlToPdf.runtimeconfig.dev.json
+C:\projects\HtmlToPdf\HtmlToPdf\bin\Debug\netcoreapp2.2\HtmlToPdf.dll
+C:\projects\HtmlToPdf\HtmlToPdf\obj\Debug\netcoreapp2.2\HtmlToPdf.csprojAssemblyReference.cache
+C:\projects\HtmlToPdf\HtmlToPdf\obj\Debug\netcoreapp2.2\HtmlToPdf.csproj.CoreCompileInputs.cache
+C:\projects\HtmlToPdf\HtmlToPdf\obj\Debug\netcoreapp2.2\HtmlToPdf.AssemblyInfoInputs.cache
+C:\projects\HtmlToPdf\HtmlToPdf\obj\Debug\netcoreapp2.2\HtmlToPdf.AssemblyInfo.cs
